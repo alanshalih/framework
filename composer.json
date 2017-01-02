@@ -10,10 +10,6 @@
     "wordpress"
   ],
   "require": {
-    "php": ">=5.4",
-    "jeremeamia/superclosure": "2.3.*",
-    "illuminate/database": "5.0.*",
-    "symfony/var-dumper": "2.8.*"
   },
   "require-dev": {
 
